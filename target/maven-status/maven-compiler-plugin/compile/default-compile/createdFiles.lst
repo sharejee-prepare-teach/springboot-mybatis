@@ -1,0 +1,4 @@
+com\techprimers\mybatis\springbootmybatis\mapper\UsersMapper.class
+com\techprimers\mybatis\springbootmybatis\SpringBootMybatisApplication.class
+com\techprimers\mybatis\springbootmybatis\resource\UsersResource.class
+com\techprimers\mybatis\springbootmybatis\model\Users.class

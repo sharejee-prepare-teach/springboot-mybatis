@@ -1,0 +1,1 @@
+INSERT INTO users VALUES(2,'username3',14700.0),(3,'username3',14700.0)
